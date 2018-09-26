@@ -5,18 +5,25 @@ A curated list of awesome apps and stuff you can do in a LAN (by that I mean the
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [Services](#services)
-* [Apps](#apps)
+* [Utilities](#utilities)
+* [Mobile games](#mobile-games)
 * [Contribute](#contribute)
 * [License](#license)
 
 ## Services
 
-* [ZeroTier](https://www.zerotier.com/) - Turn any set of computers in any environment into a LAN. Not a VPN, just magic.
+* [ZeroTier](https://www.zerotier.com/) - Turn any set of computers in any environment into a LAN. Not a VPN, just magic. (Linux, Windows, Mac, Android, iOS)
 
-## Apps
+## Utilities
 
-* [LAN Messenger](https://lanmessenger.github.io/) - Encrypted messages, file transfer, no server needed. (Windows, MAC, Linux)
-* [D-LAN](http://www.d-lan.net/features.html) - Parallel, distributed downloads with manageable queues, auto-discover, no server needed.
+* [LAN Messenger](https://lanmessenger.github.io/) - Encrypted messages, file transfer, no server needed. (Linux, Windows, Mac)
+* [D-LAN](http://www.d-lan.net/features.html) - Parallel, distributed downloads with manageable queues, auto-discover, no server needed. (Linux, Windows, Mac)
+* [Firestr](https://mempko.com/firestr/firestr.html) - A platform for creating and sharing (not necessarily) simple P2P software with Lua, includes identity management, peering and example apps. (Linux, Windows, Mac)
+
+## Mobile games
+
+* [Soul Knight](https://play.google.com/store/apps/details?id=com.ChillyRoom.DungeonShooter&showAllReviews=true) - Dungeon explorer and shooting game for up to 4 players in the same WiFi. (Android, iOS)
+* [Dual](https://play.google.com/store/apps/details?id=com.Seabaa.Dual) - 2 player abstract game that works over WiFi or Bluetooth. (Android, iOS)
 
 
 ## Contribute
