@@ -6,6 +6,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [Services](#services)
 * [Utilities](#utilities)
+* [Inutilities](#utilities)
 * [Mobile games](#mobile-games)
 * [Contribute](#contribute)
 * [License](#license)
@@ -13,17 +14,22 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Services
 
 * [ZeroTier](https://www.zerotier.com/) - Turn any set of computers in any environment into a LAN. Not a VPN, just magic. (Linux, Windows, Mac, Android, iOS)
+* [TightVNC](https://www.tightvnc.com/) (Windows), [Remmina](https://remmina.org/) (Linux) and [TigerVNC](https://tigervnc.org/) (Windows, Linux, Mac) - Browse other desktops.
 
 ## Utilities
 
+* [netcat](https://www.binarytides.com/netcat-tutorial-for-beginners/) - Send arbitrary messages over the wire, great for simple chats](https://askubuntu.com/questions/665492/how-to-build-a-simple-chat-using-netcat) and experimentation in general. (Linux, Mac)
+* [zget/zput](https://github.com/nils-werner/zget) - Filename-based P2P file-transfer, a Python script and module for easily (and unsafely) sending files over LAN (set `--address` if you're in multiple LANs). See also [figo](https://github.com/rnbdev/figo) for a clone written in Go.
 * [LAN Messenger](https://lanmessenger.github.io/) - Encrypted messages, file transfer, no server needed. (Linux, Windows, Mac)
 * [D-LAN](http://www.d-lan.net/features.html) - Parallel, distributed downloads with manageable queues, auto-discover, no server needed. (Linux, Windows, Mac)
 * [Firestr](https://mempko.com/firestr/firestr.html) - A platform for creating and sharing (not necessarily) simple P2P software with Lua, includes identity management, peering and example apps. (Linux, Windows, Mac)
-* [zget/zput](https://github.com/nils-werner/zget) - Filename-based P2P file-transfer, a Python script and module for easily (and unsafely) sending files over LAN (set `--address` if you're in multiple LANs). See also [figo](https://github.com/rnbdev/figo) for a clone written in Go.
-* [Scuttlebutt](https://www.scuttlebutt.nz/) and its incarnations, such as [Manyverse](https://manyver.se/) (Android) and [Patchwork](https://github.com/ssbc/patchwork) (Linux, Windows, Mac), support a variety of use-cases, mainly social networking, with default LAN syncing and optional internet syncing using public nodes.
 * [Dat](https://datproject.org/) - Data sync over the internet or LAN with autodiscovery. Distributed transfers, deduplication, versioning. (Linux, Mac)
 
-## Mobile games
+## Inutilities
+
+* [Scuttlebutt](https://www.scuttlebutt.nz/) and its incarnations, such as [Manyverse](https://manyver.se/) (Android) and [Patchwork](https://github.com/ssbc/patchwork) (Linux, Windows, Mac), support a variety of use-cases, mainly social networking, with default LAN syncing and optional internet syncing using public nodes.
+
+### Mobile games
 
 * [Soul Knight](https://play.google.com/store/apps/details?id=com.ChillyRoom.DungeonShooter&showAllReviews=true) - Dungeon explorer and shooting game for up to 4 players in the same WiFi. (Android, iOS)
 * [Dual](https://play.google.com/store/apps/details?id=com.Seabaa.Dual) - 2 player abstract game that works over WiFi or Bluetooth. (Android, iOS)
