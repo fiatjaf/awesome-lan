@@ -1,4 +1,4 @@
-# Awesome jq [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome LAN [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome apps and stuff you can do in a LAN (by that I mean the network formed by the computers in your home, your workplace and so on).
 
@@ -28,6 +28,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Inutilities
 
 * [Scuttlebutt](https://www.scuttlebutt.nz/) and its incarnations, such as [Manyverse](https://manyver.se/) (Android) and [Patchwork](https://github.com/ssbc/patchwork) (Linux, Windows, Mac), support a variety of use-cases, mainly social networking, with default LAN syncing and optional internet syncing using public nodes.
+* [Telnet](https://www.telnet.org/htm/applications.htm) apps and games (using a server and one or multiple clients), some interesting examples to try are
+  * [mud-pi](https://github.com/Frimkron/mud-pi), the skeleton of a multiplayer dungeon game, waiting to be extended (in Python).
+  * [snake](https://github.com/plutov/go-snake-telnet), the classic Snake game, single-player.
 
 ### Mobile games
 
