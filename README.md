@@ -20,6 +20,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [netcat](https://www.binarytides.com/netcat-tutorial-for-beginners/) - Send arbitrary messages over the wire, great for simple chats](https://askubuntu.com/questions/665492/how-to-build-a-simple-chat-using-netcat) and experimentation in general. (Linux, Mac)
 * [zget/zput](https://github.com/nils-werner/zget) - Filename-based P2P file-transfer, a Python script and module for easily (and unsafely) sending files over LAN (set `--address` if you're in multiple LANs). See also [figo](https://github.com/rnbdev/figo) for a clone written in Go.
+* [Simple Chat 2](https://schat.me/) - Simple Chat is a simple and powerful cross-platform client-server chat for local networks and the Internet.
 * [LAN Messenger](https://lanmessenger.github.io/) - Encrypted messages, file transfer, no server needed. (Linux, Windows, Mac)
 * [D-LAN](http://www.d-lan.net/features.html) - Parallel, distributed downloads with manageable queues, auto-discover, no server needed. (Linux, Windows, Mac)
 * [Firestr](https://mempko.com/firestr/firestr.html) - A platform for creating and sharing (not necessarily) simple P2P software with Lua, includes identity management, peering and example apps. (Linux, Windows, Mac)
