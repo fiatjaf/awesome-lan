@@ -19,7 +19,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Social
 
-* [TapChat](https://tapchat.com/) - Persistent chats on any WiFi. (Android, iOS)
 * [Simple Chat 2](https://schat.me/) - Simple Chat is a simple and powerful cross-platform client-server chat for local networks and the Internet.
 * [LAN Messenger](https://lanmessenger.github.io/) - Encrypted messages, file transfer, no server needed. (Linux, Windows, Mac)
 * [Scuttlebutt](https://www.scuttlebutt.nz/) and its incarnations, such as [Manyverse](https://manyver.se/) (Android) and [Patchwork](https://github.com/ssbc/patchwork) (Linux, Windows, Mac), support a variety of use-cases, mainly social networking, with default LAN syncing and optional internet syncing using public nodes.
