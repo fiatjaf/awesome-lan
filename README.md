@@ -14,7 +14,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Services
 
-* [ZeroTier](https://www.zerotier.com/) - Turn any set of computers in any environment into a LAN. Not a VPN, just magic. (Linux, Windows, Mac, Android, iOS)
+* [ZeroTier](https://www.zerotier.com/) and [Tailscale](https://tailscale.com/) - Turn any set of computers in any environment into a LAN. Not a VPN, just magic. (Linux, Windows, Mac, Android, iOS)
 * [TightVNC](https://www.tightvnc.com/) (Windows), [Remmina](https://remmina.org/) (Linux) and [TigerVNC](https://tigervnc.org/) (Windows, Linux, Mac) - Browse other desktops.
 
 ## Social
