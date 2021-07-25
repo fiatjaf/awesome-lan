@@ -25,6 +25,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Utilities
 
+* [LANDrop](https://landrop.app/) - Drop any files to any devices on your LAN.
 * [friendpm](https://github.com/noffle/friendpm) - Publish and install Node.js packages over LAN.
 * [netcat](https://www.binarytides.com/netcat-tutorial-for-beginners/) - Send arbitrary messages over the wire, great for simple chats](https://askubuntu.com/questions/665492/how-to-build-a-simple-chat-using-netcat) and experimentation in general. (Linux, Mac)
 * [zget/zput](https://github.com/nils-werner/zget) - Filename-based P2P file-transfer, a Python script and module for easily (and unsafely) sending files over LAN (set `--address` if you're in multiple LANs). See also [figo](https://github.com/rnbdev/figo) for a clone written in Go.
