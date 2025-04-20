@@ -25,6 +25,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Utilities
 
+* [LocalSend][https://localsend.org/] - Open-source, cross-platform  app to share files between devices on your LAN 
 * [LANDrop](https://landrop.app/) - Drop any files to any devices on your LAN.
 * [friendpm](https://github.com/noffle/friendpm) - Publish and install Node.js packages over LAN.
 * [netcat](https://www.binarytides.com/netcat-tutorial-for-beginners/) - Send arbitrary messages over the wire, great for simple chats](https://askubuntu.com/questions/665492/how-to-build-a-simple-chat-using-netcat) and experimentation in general. (Linux, Mac)
