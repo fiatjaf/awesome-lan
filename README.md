@@ -46,6 +46,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 Turn any set of computers in any environment into a LAN. (Cross-platform)
 * [ZeroTier](https://www.zerotier.com/)
 * [Tailscale](https://tailscale.com/)
+* [NetBird](https://github.com/netbirdio/netbird)
 
 Note: This can also be done using softwares dedicated to common VPN Protocols (i.e., Wireguard, IPSec, OpenVPN, etc.)
 
